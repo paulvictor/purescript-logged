@@ -1,0 +1,17 @@
+{
+  "name": "purescript-logged",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "repl": "pulp psci",
+    "build" : "pulp compile"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pulp": "^11.0.0",
+    "purescript": "^0.11.5"
+  }
+}
